@@ -2,6 +2,11 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ontaptom/wdi/blob/main/gemma3_colab.ipynb)
 
+## About this repo 
+
+Originally I have created this repository for a specific talk, but currently I'm re-using the same repo to add some additional Colab notebooks related to Open LLMs ;) Cheers!
+
+
 ## Overview
 
 This repository contains the companion Google Colab notebook (`gemma3_colab.ipynb`) for the talk **"GenAI on Your Own Terms – Open Large Language Models in Action"** presented at Warszawskie Dni Informatyki 2025.
